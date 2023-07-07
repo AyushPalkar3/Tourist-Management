@@ -1,0 +1,8 @@
+PARV Tourism Ticket
+===============
+
+Email ID/Username: PRAJAKTA
+Tour Code: TH
+Ticket Cost: Rs 31000.000000/-
+Number of tickets: 4
+Total Cost: Rs 124000.000000/-

@@ -1,0 +1,8 @@
+PARV Tourism Ticket
+===============
+
+Email ID/Username: SURAJ
+Tour Code: MDV
+Ticket Cost: Rs 62000.000000/-
+Number of tickets: 5
+Total Cost: Rs 310000.000000/-

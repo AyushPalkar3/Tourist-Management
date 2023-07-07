@@ -1,0 +1,8 @@
+PARV Tourism Ticket
+===============
+
+Email ID/Username: graurang
+Tour Code: IND
+Ticket Cost: Rs 50000.000000/-
+Number of tickets: 2
+Total Cost: Rs 100000.000000/-

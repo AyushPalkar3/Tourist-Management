@@ -1,0 +1,8 @@
+PARV Tourism Ticket
+===============
+
+Email ID/Username: shree
+Tour Code: UAE
+Ticket Cost: Rs 43000.000000/-
+Number of tickets: 2
+Total Cost: Rs 86000.000000/-

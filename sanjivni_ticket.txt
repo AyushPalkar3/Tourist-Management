@@ -1,0 +1,8 @@
+PARV Tourism Ticket
+===============
+
+Email ID/Username: sanjivni
+Tour Code: IT
+Ticket Cost: Rs 42000.000000/-
+Number of tickets: 3
+Total Cost: Rs 126000.000000/-
